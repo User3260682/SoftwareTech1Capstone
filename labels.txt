@@ -1,0 +1,2 @@
+0 Bacterial Spot
+1 Leaf Mold
